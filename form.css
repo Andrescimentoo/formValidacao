@@ -23,8 +23,10 @@ body{
     width: 175px;
     height: 43px;
     margin: 1.1rem;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 600;
     cursor: pointer;
+    color: rgb(85, 163, 163);;
+    background-color: rgb(255, 255, 255);
     
 }
