@@ -6,6 +6,7 @@ body{
     margin: 12rem;
     background-color: rgb(85, 163, 163);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 
 .main input{
@@ -17,4 +18,13 @@ body{
 .title{
     text-align: center;
     color: aliceblue;
+}
+.button button{
+    width: 175px;
+    height: 43px;
+    margin: 1.1rem;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    
 }
