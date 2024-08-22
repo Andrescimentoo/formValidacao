@@ -13,3 +13,7 @@ body{
     font-size: 1.3rem;
     margin: 1rem;
 }
+.title{
+    text-align: center;
+    color: aliceblue;
+}
